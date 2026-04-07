@@ -26,7 +26,7 @@ This project displays an unsupervised clustering of 400 graduate school applican
 | `notebook.ipynb` | Complete analysis code |
 
 ## Links
-- **Notebook:** [Colab](https://colab.research.google.com/drive/1k_EYPubMWjEjgcjW8TNUnBcoKYZBa_-z?usp=sharing)
+- **Notebook:** [Colab] ([https://colab.research.google.com/drive/1k_EYPubMWjEjgcjW8TNUnBcoKYZBa_-z?usp=sharing)
 - **Slides:** [PDF Summary]([(https://canva.link/iu61iucswbzu0yl)
 
 ## Key Insight
