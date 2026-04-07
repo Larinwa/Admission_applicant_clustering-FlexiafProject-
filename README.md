@@ -1,4 +1,4 @@
-# Admission Clustering for Program Targeting
+# Applicants Clustering for Program Targeting
 This project displays an unsupervised clustering of 400 graduate school applicants to enable targeted outreach strategies.
 
 ## Dataset
