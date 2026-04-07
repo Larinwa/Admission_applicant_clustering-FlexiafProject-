@@ -27,7 +27,7 @@ This project displays an unsupervised clustering of 400 graduate school applican
 
 ## Links
 - **Notebook:** [Colab](https://colab.research.google.com/drive/1k_EYPubMWjEjgcjW8TNUnBcoKYZBa_-z?usp=sharing)
-- **Slides:** [PDF Summary](YOUR_SLIDES_LINK_HERE) *(coming in step 6)*
+- **Slides:** [PDF Summary]([(https://canva.link/iu61iucswbzu0yl)
 
 ## Key Insight
 Model successfully segments applicants into distinct groups with different admission probabilities, enabling data-driven resource allocation for admissions teams.
